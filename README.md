@@ -19,7 +19,7 @@ Musa es un estudio de edición de audio, como un editor de vídeo pero para el a
 
 HTML, CSS y un JavaScript mínimo, sin paso de compilación y sin dependencias. No hay cookies, analítica ni otros rastreadores. La página no carga recursos de terceros: las fuentes son las del sistema.
 
-Las figuras de forma de onda y de estudio multipista están dibujadas con SVG y CSS. Van etiquetadas como ilustraciones. No son capturas de la aplicación.
+Las figuras de la página son capturas reales de la fase 1, en desarrollo, hechas con el proyecto de demostración. Están en `assets/`. En esas capturas la generación usa la síntesis de demostración, no el modelo ACE-Step: la barra de estado de la aplicación lo indica. La tarjeta para redes (`og.png`) sigue siendo un gráfico de la web, no una captura.
 
 ## Ver en local
 
@@ -45,7 +45,7 @@ El código de la página está en [ardu01/musa-web](https://github.com/ardu01/mu
 
 ## Licencia
 
-La licencia MIT de este repositorio cubre solo el contenido de la web: HTML, CSS, JavaScript y las ilustraciones originales.
+La licencia MIT de este repositorio cubre solo el contenido de la web: HTML, CSS, JavaScript, el gráfico de la tarjeta social y las capturas publicadas en `assets/`.
 
 La aplicación Musa tiene licencia GPL-3.0-only. Su código no forma parte de este repositorio.
 
